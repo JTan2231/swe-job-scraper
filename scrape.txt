@@ -1,797 +1,795 @@
-account management: 1
-guard card: 1
-translation: 1
+cmca: 1
+business development: 1
 vendor management: 1
+ipsec: 1
 demand planning: 1
+clinical trials: 1
+translation: 1
+labor cost analysis: 1
+guard card: 1
+wiki systems: 1
+eigrp: 1
+quantitative analysis: 1
+stata: 1
+requirements gathering: 1
 strategic planning: 1
 diesel engine repair: 1
-nmls: 1
-loan origination: 1
-5s: 1
-aicp certification: 1
-cost accounting: 1
-commercial vehicle: 1
-martech: 1
-clinical trials: 1
-stata: 1
-labor cost analysis: 1
-buffer: 1
-ipsec: 1
-mrp: 1
-hvac design: 1
-requirements gathering: 1
-first aid certification: 1
 triage: 1
-quantitative analysis: 1
-wiki systems: 1
-business development: 1
-cmca: 1
-eigrp: 1
+5s: 1
 data modeling: 1
+first aid certification: 1
+cost accounting: 1
+buffer: 1
+3pl: 1
+commercial vehicle: 1
 customer segmentation: 1
 multichannel marketing: 1
-scorm: 1
-websphere: 1
-network monitoring: 1
-architecture license: 1
-adobe analytics: 1
-field service: 1
-proofreading: 1
+investment: 1
 business intelligence: 1
-immigration law: 1
-economic development: 1
 fmea: 1
 layout design: 1
-product lifecycle management: 1
-visual design: 1
-high voltage: 1
-low voltage: 1
-direct sales: 1
-content management: 1
+economic development: 1
+account management: 1
+mrp: 1
+hvac design: 1
+aicp certification: 1
+network monitoring: 1
+field service: 1
 boiler license: 1
-cnc milling machine: 1
-ext js: 1
-hr sourcing: 1
+architecture license: 1
 sap supply chain management: 1
 sap materials management: 1
-ecmascript: 1
-ember.js: 1
-wills, trusts, & estate law: 1
-sanitation: 1
-internal audits: 1
-filemaker: 1
-sales management: 1
-surface mount technology: 1
-soldering: 1
-desktop support: 1
-desktop administration: 1
-website management: 1
+proofreading: 1
+product lifecycle management: 1
+content management: 1
+direct sales: 1
 incident management: 1
-production design: 1
+scorm: 1
+b2b: 1
+websphere: 1
+visual design: 1
+nmls: 1
+loan origination: 1
+cnc milling machine: 1
+low voltage: 1
+asset management: 1
+hr sourcing: 1
+learning technology: 1
 as9100: 1
 bus driving: 1
-learning technology: 1
+ext js: 1
+ecmascript: 1
+ember.js: 1
+surface mount technology: 1
+soldering: 1
+production design: 1
 bc/be: 1
+immigration law: 1
+ehs: 1
 content management systems: 1
-3pl: 1
-investment: 1
-asset management: 1
 journeyman license: 1
 stamping press: 1
+adobe analytics: 1
+sanitation: 1
+website management: 1
+internal audits: 1
+wills, trusts, & estate law: 1
+desktop support: 1
+desktop administration: 1
+laboratory procedures: 1
+sales management: 1
+primavera p6: 1
+calipers: 1
+martech: 1
 aseptic technique: 1
 biochemistry: 1
-purchasing: 1
-office experience: 1
-3g: 1
-mcsd: 1
-mcitp: 1
-search engines: 1
-clinical research: 1
-quickbooks: 1
-accounts receivable: 1
-it project management: 1
-class d: 1
-change management: 1
-primavera p6: 1
-laboratory procedures: 1
-title processing: 1
-calipers: 1
-sap crm: 1
-prolog: 1
-epic: 1
-ui development: 1
-iso 13485: 1
-molecular biology: 1
-program management: 1
-banking: 1
-legal drafting: 1
-marketing automation: 1
-d3.js: 1
-zookeeper: 1
-woodworking: 1
-sheet metal: 1
-teradata: 1
-financial modeling: 1
-native advertising: 1
-upselling: 1
-asbestos certification: 1
-adp: 1
-accounts payable: 1
-mapreduce: 1
-conversion optimization: 1
-roofing: 1
-front desk: 1
-quantitative research: 1
 offensive security certified professional: 1
 csslp: 1
 pci: 1
+program management: 1
+it project management: 1
+change management: 1
+high voltage: 1
+iso 13485: 1
+events management: 1
+office experience: 1
+purchasing: 1
+clinical research: 1
+class d: 1
+accounts receivable: 1
+quickbooks: 1
+search engines: 1
+mcsd: 1
+mcitp: 1
+d3.js: 1
+epic: 1
+dod experience: 1
+sap crm: 1
+molecular biology: 1
+prolog: 1
+asbestos certification: 1
+mapreduce: 1
+data mining: 1
+legal drafting: 1
+organization design: 1
+native advertising: 1
+front desk: 1
 paving: 1
+investment banking: 1
+quantitative research: 1
+roofing: 1
+financial modeling: 1
+teradata: 1
 ccda: 1
 hipaa: 1
-lighting design: 1
-investment banking: 1
+banking: 1
 bloomberg: 1
-opensuse: 1
-materials management: 1
-cordova: 1
-intelligence targeting: 1
-medical imaging: 1
-ceh: 1
-research laboratory experience: 1
-swmm: 1
-splunk: 1
-gm vehicles: 1
-dod experience: 1
-gd&t: 1
+upselling: 1
+woodworking: 1
+sheet metal: 1
+3g: 1
+adp: 1
+accounts payable: 1
 lean six sigma: 1
-hbase: 1
+zookeeper: 1
+network infrastructure: 1
+conversion optimization: 1
 adas: 1
 terraform: 1
 cloud architecture: 1
-software project management: 1
-adobe captivate: 1
+auto restoration: 1
+marketing automation: 1
+research laboratory experience: 1
+swmm: 1
+surveyor license: 1
+gd&t: 1
+ceh: 1
+enterprise software: 1
+security system: 1
+materials management: 1
+intelligence targeting: 1
+opensuse: 1
+cordova: 1
+database marketing: 1
 procurement management: 1
 team management: 1
 trello: 1
-mediation: 1
+osha 30: 1
+zigbee: 1
+software project management: 1
 certified property manager: 1
-network infrastructure: 1
-surveyor license: 1
-oil & gas: 1
+gm vehicles: 1
+mediation: 1
 ceridian: 1
-big data: 1
+oil & gas: 1
 fire alarm license: 1
-nmap: 1
-enterprise software: 1
-security system: 1
-auto restoration: 1
-data mining: 1
-oracle ebs: 1
+ui development: 1
 outside sales: 1
-hospitality: 1
-jboss: 1
-puppet: 1
-workday: 1
-database marketing: 1
-dhcp: 1
-system testing: 1
-hibernate: 1
-hp service manager: 1
-wordpress: 1
-air brake endorsement: 1
-air brake: 1
-organization design: 1
-operations management: 1
-transcription: 1
-algorithm design: 1
-payroll: 1
-uml: 1
+big data: 1
 hvac certification: 1
 epa certification: 1
-software architecture: 1
 commercial driving: 1
-nist standards: 1
-it service management: 1
 ppap: 1
-zigbee: 1
-tooling: 1
-google ads: 1
-sales support: 1
-juniper: 1
-facilities management: 1
+hbase: 1
+hospitality: 1
+conveyor installation: 1
+air brake endorsement: 1
+air brake: 1
+nmap: 1
+nist standards: 1
+oracle ebs: 1
+lighting design: 1
+workday: 1
+splunk: 1
+system testing: 1
+puppet: 1
+transcription: 1
+medical imaging: 1
+wordpress: 1
+hp service manager: 1
+software architecture: 1
+uml: 1
+payroll: 1
 customer relationship management: 1
-cnc programming: 1
-microscopy: 1
-ppc campaign management: 1
-google adwords: 1
-hand tools: 1
-pmhnp: 1
-dea certification: 1
-benefits administration: 1
-hp alm: 1
+hibernate: 1
 sscp: 1
 growing experience: 1
-six sigma: 1
-data entry: 1
-pharmacy technician certification: 1
-conveyor installation: 1
+interaction design: 1
+ppc campaign management: 1
+google adwords: 1
+algorithm design: 1
+google ads: 1
+adobe captivate: 1
+tooling: 1
+sales support: 1
 apache pig: 1
-photography: 1
+facilities management: 1
 sem: 1
+cnc programming: 1
+hand tools: 1
+benefits administration: 1
 cctv: 1
 host/hostess experience: 1
-fireworks: 1
-interaction design: 1
-financial analysis: 2
-lean: 2
+data entry: 1
+pmhnp: 1
+dea certification: 1
+pharmacy technician certification: 1
+operations management: 1
+jboss: 1
+hp alm: 1
+microscopy: 1
+dhcp: 1
+juniper: 1
+six sigma: 1
+web design: 2
 mesos: 2
-pricing: 2
+lean: 2
+baking: 2
+security: 2
 adobe xd: 2
-computer operation: 2
-cpt coding: 2
-financial report writing: 2
+forecasting: 2
 data science: 2
 tensorflow: 2
-qa/qc: 2
-security: 2
-oem: 2
-project management methodology: 2
-web design: 2
 cpr certification: 2
-osha 10: 2
+financial report writing: 2
 lua: 2
-baking: 2
-google docs: 2
-tfs: 2
+oem: 2
+cpt coding: 2
+middleware: 2
+pricing: 2
+human capital management: 2
+control-m: 2
+computer operation: 2
+qa/qc: 2
 prtg: 2
-fire alarm: 2
 ssh: 2
+cognos: 2
+chromatography: 2
 copywriting: 2
 a/b testing: 2
-human capital management: 2
-middleware: 2
-quality systems: 2
-internet of things: 2
-control-m: 2
+project management methodology: 2
+google docs: 2
+fire alarm: 2
+tfs: 2
 user acceptance testing: 2
-b2b: 2
-chromatography: 2
-bicsi certification: 2
-as400: 2
-forecasting: 2
-bootstrap: 2
-ehs: 2
-rust: 2
-ccdp: 2
-solarwinds: 2
-equipment repair: 2
-basic math: 2
-facilities maintenance: 2
+osha 10: 2
+information architecture: 2
 iam level iii: 2
 rmf: 2
-3d animation: 2
+gamp: 2
+quality systems: 2
 tissue culture: 2
+iaas: 2
+mcp: 2
+bicsi certification: 2
+facilities maintenance: 2
+as400: 2
 warehouse management system: 2
-hotel experience: 2
-kaizen: 2
+ccdp: 2
 zbrush: 2
 mudbox: 2
+3d animation: 2
+hotel experience: 2
+kaizen: 2
 yoga: 2
-cdl a: 2
-earned value management: 2
-iaas: 2
-gamp: 2
-mcp: 2
-events management: 2
-ductwork: 2
-routing protocols: 2
-cloud computing: 2
-cognos: 2
-information architecture: 2
+bootstrap: 2
+solarwinds: 2
+rust: 2
 network security: 2
-spss: 2
 project scheduling: 2
 primavera: 2
-heavy lifting: 2
+financial analysis: 2
+routing protocols: 2
+ductwork: 2
 intellectual property law: 2
-postgis: 2
+equipment repair: 2
+basic math: 2
 it support: 2
-sso: 2
-ant: 2
-process management: 2
-social media management: 2
+heavy lifting: 2
 struts: 2
-video production: 2
-scalability: 2
-statistics: 2
-teaching: 2
-taxonomy: 2
-osha: 2
-general counsel: 2
-qlikview: 2
+internet of things: 2
 calculus: 2
-bioinformatics: 2
-osha 30: 2
+cdl a: 2
+earned value management: 2
+project / program management: 2
+cloud computing: 2
+postgis: 2
+title processing: 2
+scalability: 2
+osha: 2
+ant: 2
+social media management: 2
+qlikview: 2
+general counsel: 2
+statistics: 2
+video production: 2
+process management: 2
 pick & place devices: 2
 welding: 2
-project / program management: 2
+taxonomy: 2
 adobe after effects: 2
 microsoft project: 2
-bar: 2
+teaching: 2
+bioinformatics: 2
 cisco asa: 2
-mvc: 2
-adobe acrobat: 2
+spss: 2
+bar: 2
 litigation: 2
 construction law: 2
+mvc: 2
+adobe acrobat: 2
 crisis management: 2
-controlling experience: 2
 certified quality engineer: 2
-siem: 2
-pivot tables: 2
+fireworks: 2
 system administration: 2
-leed certification: 3
+controlling experience: 2
+pivot tables: 2
+siem: 2
 property management: 3
-twic card: 3
-samba: 3
-raspberry pi: 3
-micrometer: 3
-smartsheet: 3
+systems engineering: 3
 certified scrum master: 3
 arm: 3
 bgp: 3
-responsive web design: 3
-network management: 3
-soc: 3
+leed certification: 3
+twic card: 3
+samba: 3
+micrometer: 3
 data analytics: 3
-computer vision: 3
-sage: 3
-ssl: 3
-frame carpentry: 3
-fortran: 3
-systems engineering: 3
+perforce: 3
 six sigma black belt: 3
-statistical analysis: 3
-db2: 3
-performance tuning: 3
+it service management: 3
+packaging: 3
+smartsheet: 3
+network management: 3
+accounting software: 3
+data analysis skills: 3
+ftp: 3
 adobe indesign: 3
 sketchup: 3
 ucc law: 3
-ftp: 3
+responsive web design: 3
 documentation review: 3
-packaging: 3
-supervising experience: 3
 enterprise sales: 3
-national institute for certification in engineering technologies: 3
 erp systems: 3
-data analysis skills: 3
+fortran: 3
+statistical analysis: 3
+performance tuning: 3
 coordinate measuring machine: 3
-aviation: 3
-seo: 3
-web development: 3
-video editing: 3
-cloud development: 3
-perforce: 3
-maya: 3
+db2: 3
+supervising experience: 3
+sage: 3
+process improvement: 3
+production planning: 3
 citrix: 3
+aviation: 3
+computer vision: 3
+web development: 3
 adobe creative suite: 3
 avid: 3
 sccm: 3
-painting: 3
+seo: 3
+video editing: 3
+maya: 3
 filming: 3
-peoplesoft: 3
-vpn: 3
-outbound sales: 3
-process improvement: 3
-network architecture: 3
-production planning: 3
-accounting software: 3
-design controls: 3
-autodesk inventor: 3
 adobe premiere: 3
-svn: 3
-functional testing: 3
-machining: 3
+peoplesoft: 3
+network architecture: 3
+outbound sales: 3
+vpn: 3
+cloud development: 3
 istqb certification: 3
 release management: 3
-jquery: 3
-lean manufacturing: 3
-google suite: 3
-fraud: 3
-digital marketing: 3
+machining: 3
+functional testing: 3
 mcse: 3
+raspberry pi: 3
+svn: 3
+national institute for certification in engineering technologies: 3
+lean manufacturing: 3
+jquery: 3
+design controls: 3
+google suite: 3
+pre-sales: 3
+fraud: 3
+painting: 3
+digital marketing: 3
+sso: 3
 microservices: 3
 invision: 3
+phone etiquette: 3
+pl/sql: 3
 sap: 3
 test cases: 3
-pl/sql: 3
-phone etiquette: 3
 new relic: 3
 press brake machine: 3
-human resources: 4
-adobe photoshop: 4
-project planning: 4
-5g: 4
-dynamodb: 4
-load balancing: 4
+robotics: 4
 electrical license: 4
-waterfall: 4
-proposal writing: 4
+icd coding: 4
+system security: 4
+ssl: 4
+arcgis: 4
+project planning: 4
 sqlite: 4
+proposal writing: 4
+waterfall: 4
+human resources: 4
+remote access software: 4
+dynamodb: 4
 graphql: 4
 quality control: 4
-system security: 4
-arcgis: 4
-icd coding: 4
 grpc: 4
-project leadership: 4
-regulatory reporting: 4
-detailing: 4
-ids: 4
-plastics injection molding: 4
-microsoft exchange: 4
-fpga: 4
-pcb: 4
-xslt: 4
+load balancing: 4
 spectroscopy: 4
-precision measuring instruments: 4
-openstack: 4
-safe: 4
+frame carpentry: 4
+ids: 4
+microsoft exchange: 4
 virtualization: 4
+xslt: 4
+inside sales: 4
+regulatory reporting: 4
+project leadership: 4
+safe: 4
+detailing: 4
+plastics injection molding: 4
+adobe photoshop: 4
+openstack: 4
+hec: 4
+image processing: 4
+epa universal certification: 4
+non-cdl class c: 4
 post-production: 4
+5g: 4
+autodesk inventor: 4
+autodesk: 4
+precision measuring instruments: 4
 iat level ii: 4
 iat: 4
-non-cdl class c: 4
-image processing: 4
-hec: 4
-requirements management: 4
-epa universal certification: 4
 b2b sales: 4
-autodesk: 4
-recruiting: 4
-accounting: 4
-pre-sales: 4
-gradle: 4
-minitab: 4
-chemical engineering: 4
-sybase: 4
 fundamentals of engineering: 4
+requirements management: 4
+solaris: 4
+gradle: 4
+chemical engineering: 4
+minitab: 4
 cmms: 4
+sybase: 4
+accounting: 4
+recruiting: 4
 apqp: 4
 vcenter: 4
-itil: 5
+testng: 5
 service-oriented architecture: 5
-adobe illustrator: 5
-statistical software: 5
-algebra: 5
-comptia server+: 5
-oracle: 5
-ui design: 5
-cloud infrastructure: 5
-mobile devices: 5
-bluebeam: 5
+it: 5
 construction management: 5
-django: 5
-robotics: 5
+statistical software: 5
+data management: 5
 mechanical design: 5
 pro/engineer: 5
-sensors: 5
-industrial engineering: 5
-it: 5
-testng: 5
-data management: 5
-asme codes & standards: 5
+redshift: 5
 certified information systems auditor: 5
-geometry: 5
+ui design: 5
+r: 5
+django: 5
+sensors: 5
+oracle: 5
+industrial engineering: 5
+construction management software: 5
+cloud infrastructure: 5
+pcb: 5
+navisworks: 5
+fanuc: 5
 cgmp: 5
 iso 9001: 5
 microstation: 5
-redshift: 5
-navisworks: 5
-inside sales: 5
-voip: 5
+crm software: 5
 computer hardware: 5
-vsphere: 5
-cobol: 5
+voip: 5
+comptia server+: 5
+geometry: 5
 distributed control systems: 5
-remote access software: 5
-scrum: 5
-r: 5
-comptia a+: 5
-training & development: 5
+adobe illustrator: 5
+vsphere: 5
 web accessibility: 5
+asme codes & standards: 5
+cobol: 5
+comptia a+: 5
+mobile devices: 5
+scrum: 5
+training & development: 5
+enterprise architecture: 5
 network administration: 5
 numpy: 5
-solaris: 5
-enterprise architecture: 5
 six sigma certification: 5
 test management tools: 5
 visual studio: 5
-crm software: 6
-android development: 6
-negotiation: 6
-construction management software: 6
-power tools: 6
-scss: 6
-avionics: 6
-information security: 6
-marketing: 6
-quality management: 6
-sans giac: 6
 connectwise: 6
 firewall: 6
-fanuc: 6
-medicare: 6
-san: 6
+power tools: 6
+scss: 6
+bluebeam: 6
+android development: 6
+soc: 6
+mentoring: 6
+marketing: 6
+avionics: 6
+algebra: 6
+sans giac: 6
 jsp: 6
-network engineering: 6
-ethernet: 6
-cics: 6
+fpga: 6
+san: 6
 lamp stack: 6
+cics: 6
+negotiation: 6
+network engineering: 6
+quality management: 6
+supply chain: 6
 final cut pro: 6
 typing: 6
-pmp: 7
-data collection: 7
-sketch: 7
-gis: 7
-automotive diagnostics: 7
-creo: 7
-data visualization: 7
-technical support: 7
 confluence: 7
-mentoring: 7
-informatica: 7
-process engineering: 7
+itil: 7
+technical support: 7
+creo: 7
+research & development: 7
+data visualization: 7
+sketch: 7
+automotive diagnostics: 7
+data collection: 7
+ethernet: 7
 heroku: 7
+pmp: 7
+informatica: 7
+solr: 7
+process engineering: 7
 risk management: 7
-supply chain: 7
 cam programming: 7
-mechanical engineering: 7
 https: 7
 postgresql: 7
-solr: 7
 tcp: 7
 neo4j: 7
-jpa: 7
-epa refrigeration certification: 8
 conflict management: 8
-research: 8
-less: 8
-xhtml: 8
-t-sql: 8
-research & development: 8
-mainframe development: 8
 system architecture: 8
-electrical experience: 8
-springboot: 8
-sas: 8
-multithreading: 8
-nec: 8
-customer support: 8
 usability: 8
-deep learning: 8
+epa refrigeration certification: 8
+xhtml: 8
+springboot: 8
+research: 8
+electrical experience: 8
+mainframe development: 8
+information security: 8
+netsuite: 8
+t-sql: 8
+multithreading: 8
+less: 8
+robot programming: 8
+customer support: 8
+gis: 8
+nec: 8
+sas: 8
+medicare: 8
 cybersecurity: 8
+mechanical engineering: 8
+deep learning: 8
+jpa: 8
+procore: 9
 e-commerce: 9
-unit testing: 9
+power bi: 9
 computer graphics: 9
-2d animation: 9
+help desk: 9
 budgeting: 9
 contracts: 9
-netsuite: 9
-help desk: 9
-entity framework: 9
 microsoft powerpoint: 9
 fea: 9
+2d animation: 9
 xamarin: 9
+entity framework: 9
+unit testing: 9
+financial services: 9
 relational databases: 10
-4g/lte: 10
-ccna: 10
-procore: 10
-full-stack development: 10
-power bi: 10
-project engineering: 10
-mac os: 10
-test automation: 10
 unreal engine: 10
-administrative experience: 10
-ui: 10
-robot programming: 10
-asp.net: 10
+project engineering: 10
+telecommunication: 10
+test automation: 10
+mac os: 10
+ccna: 10
+full-stack development: 10
+4g/lte: 10
 lan: 10
+asp.net: 10
+ui: 10
 encryption: 10
-ssrs: 10
 cnc: 10
-tableau: 11
-android: 11
 machine learning: 11
-labview: 11
-sdks: 11
 paas: 11
+tableau: 11
+labview: 11
 ccnp: 11
-telecommunication: 11
+android: 11
 ssis: 11
+sdks: 11
+ssrs: 11
 nginx: 11
-financial services: 11
 ios development: 12
-construction estimating: 12
 assembly: 12
 product demos: 12
 signal processing: 12
-windows: 12
-technical writing: 12
-visual basic: 12
-maintenance: 12
+administrative experience: 12
 systems analysis: 12
+technical writing: 12
+construction estimating: 12
 continuous improvement: 12
-word processing: 13
-mobile applications: 13
-sass: 13
-bamboo: 13
-catia: 13
+maintenance: 12
+visual basic: 12
+windows: 13
 business requirements: 13
-project management software: 14
-xml: 14
-electrical engineering: 14
+mobile applications: 13
+catia: 13
+word processing: 13
+sass: 13
+objective-c: 13
+bamboo: 13
+cucumber: 14
 product management: 14
-objective-c: 14
+xml: 14
+project management software: 14
+apache hive: 14
+electrical engineering: 14
 ajax: 14
 chef: 14
-cucumber: 14
-apache hive: 14
-redis: 15
-military: 15
-visio: 15
-laboratory experience: 15
 elasticsearch: 15
 cissp: 15
+redis: 15
 fda regulations: 15
+firmware: 16
 computer literacy: 16
-cassandra: 16
+military: 16
+visio: 16
 identity & access management: 16
-firmware: 17
-drafting: 17
-j2ee: 17
-root cause analysis: 17
+cassandra: 16
+drafting: 16
 design patterns: 17
+j2ee: 17
 analytics: 17
+root cause analysis: 17
+junit: 18
 natural language processing: 18
 servicenow: 18
-swift: 18
-junit: 18
+ux: 18
+hvac: 18
 database design: 18
-hvac: 19
-ux: 19
+laboratory experience: 18
+swift: 18
 spring boot: 19
 sharepoint: 19
-management: 20
 databases: 20
-continuous integration: 20
 unity: 20
+construction: 20
+continuous integration: 20
 presentation skills: 20
+management: 20
+saas: 21
 comptia network+: 21
-construction: 21
 data center experience: 21
 data warehouse: 22
-saas: 22
+auto estimating: 22
 software testing: 23
+salesforce: 23
 professional engineer: 23
 kanban: 23
 kubernetes: 24
-auto estimating: 24
-salesforce: 24
 os kernels: 25
-nosql: 25
 debugging: 25
+nosql: 25
 selenium: 25
 perl: 26
-.net core: 27
+programmable logic controllers: 26
+matlab: 27
 product development: 27
-computer networking: 27
-matlab: 28
+computer networking: 28
 business analysis: 28
-programmable logic controllers: 28
+.net core: 28
+react native: 29
 operating systems: 29
 integration testing: 29
-react native: 29
-software troubleshooting: 29
-customer service: 30
 sdlc: 30
-schematics: 30
+software troubleshooting: 30
+customer service: 30
 back-end development: 31
-math: 33
+schematics: 31
+math: 31
 shell scripting: 33
-microsoft word: 34
+embedded software: 34
+autocad: 34
+revit: 35
+microsoft word: 35
 s3: 35
-powershell: 35
-computer skills: 35
-embedded software: 35
-json: 36
 distributed systems: 36
-autocad: 37
+postgres: 36
+json: 36
+ai: 37
 quality assurance: 37
-postgres: 37
 redux: 37
+computer skills: 37
+project management: 37
+powershell: 37
 spark: 38
-revit: 38
-project management: 38
-ai: 38
 mechanical knowledge: 38
-docker: 39
 vmware: 39
 microsoft windows server: 40
 ios: 41
+docker: 41
+organizational skills: 44
+active directory: 44
 computer science: 45
-active directory: 45
-cad: 45
-organizational skills: 46
-sales: 48
+sales: 45
+cad: 46
 tcp/ip: 49
-solidworks: 51
+solidworks: 50
 requirements analysis: 51
-leadership: 52
 dns: 52
+microsoft outlook: 53
 unix: 53
-microsoft outlook: 54
+leadership: 55
 html5: 55
-php: 56
-test-driven development: 56
-node: 57
-golang: 59
-agile: 60
+php: 57
+test-driven development: 57
+node: 58
+golang: 58
+agile: 62
 hadoop: 62
 google cloud platform: 63
+writing skills: 63
 software deployment: 63
-writing skills: 64
-system design: 66
-scripting: 68
-reactjs: 70
-manufacturing: 72
+system design: 65
+gcp: 71
 kotlin: 72
-gcp: 74
-jenkins: 78
+scripting: 72
+reactjs: 73
+manufacturing: 74
+jenkins: 77
 ruby: 79
-kafka: 79
-github: 81
+kafka: 81
 .net: 82
-maven: 82
 application development: 83
-web services: 83
-microsoft sql server: 85
+web services: 84
+maven: 84
+github: 84
+microsoft sql server: 87
 jira: 94
-ci/cd: 97
-typescript: 99
-software development: 101
+typescript: 98
+ci/cd: 98
+software development: 102
 scala: 102
-apache: 104
-mongodb: 110
-time management: 112
-mysql: 114
-driver's license: 115
+apache: 105
+time management: 110
+mongodb: 112
+driver's license: 114
+mysql: 118
 node.js: 125
-microsoft office: 132
+microsoft office: 135
 data structures: 139
-apis: 141
-devops: 146
-nodejs: 156
-css: 167
-angular: 170
+apis: 143
+devops: 150
+nodejs: 155
+angular: 169
+css: 172
 spring: 173
-microsoft excel: 182
+microsoft excel: 180
 analysis skills: 199
-oop: 213
-net: 249
-rest: 259
-linux: 268
-azure: 286
-go: 342
-c: 369
-git: 404
-c#: 420
-sql: 490
-communication skills: 609
-react: 609
+oop: 210
+net: 253
+rest: 264
+linux: 269
+azure: 295
+go: 338
+c: 366
+git: 408
+c#: 415
+sql: 487
+communication skills: 604
+react: 616
 javascript: 654
-aws: 665
-python: 688
-c++: 741
+aws: 672
+python: 692
+c++: 734
 java: 938
-cloud: 1314
+cloud: 1316

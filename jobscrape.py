@@ -12,7 +12,7 @@ PUNCTUATION = "><,.:;'\"[{}]|\\=_()*&^%$@!"
 MAX_WORKERS = 100
 MAX_PAGE_LIMIT = 1000
 
-class Parser(HTMLParser):
+class Scraper(HTMLParser):
     frequencies = dict()
 
     getting_keys = True
@@ -93,7 +93,7 @@ class Parser(HTMLParser):
                     continue
 
 if __name__ == "__main__":
-    parser = Parser()
+    scraper = Scraper()
     locations = []
     locations_default = ["Seattle, WA", "Columbus, OH", "Los Angeles, CA", "San Diego, CA",
                          "New York City, NY", "Austin, TX", "Dallas, TX", "Portland, OR"]
@@ -136,18 +136,18 @@ if __name__ == "__main__":
     output_filename += ".txt"
 
     print("Gathering job posting keys...")
-    parser.get_keys(locations, page_limit)
-    print(f"{len(parser.keys)} job postings gathered.\n")
+    scraper.get_keys(locations, page_limit)
+    print(f"{len(scraper.keys)} job postings gathered.\n")
     print("Counting key word frequencies...")
-    parser.build_frequencies()
+    scraper.build_frequencies()
 
-    parser.sort_dict()
+    scraper.sort_dict()
 
     with open("scrape.txt", 'w') as f:
         f.write('') # clear file
 
     with open("scrape.txt", 'a') as f:
-        for key, value in parser.frequencies.items():
+        for key, value in scraper.frequencies.items():
             s = f"{key}: {value}\n"
             print(s[:-1])
             f.write(s)
