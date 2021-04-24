@@ -4,6 +4,8 @@ import subprocess as sp
 import urllib.request
 import concurrent.futures
 
+import numpy as np
+
 from tqdm import tqdm
 from blacklist import blacklist, whitelist
 from html.parser import HTMLParser
@@ -14,10 +16,19 @@ MAX_PAGE_LIMIT = 1000
 
 class Scraper(HTMLParser):
     frequencies = dict()
-
+    stoi = dict()
     getting_keys = True
-
     keys = []
+
+    def __init__(self, blacklist, whitelist):
+        super().__init__()
+
+        self.whitelist = whitelist
+
+        for i, word in enumerate(self.whitelist):
+            self.stoi[word] = i
+
+        self.frequency_matrix = np.zeros([len(self.whitelist), len(self.whitelist)])
 
     def load_url(self, url):
         with urllib.request.urlopen(url) as url:
@@ -27,10 +38,23 @@ class Scraper(HTMLParser):
         self.frequencies = { k: v for k, v in sorted(self.frequencies.items(), key=lambda item: item[1]) }
 
     def increment_dict(self, word):
-        if not word in self.frequencies:
-            self.frequencies[word] = 1
-        else:
+        try:
             self.frequencies[word] += 1
+        except KeyError:
+            self.frequencies[word] = 1
+
+    def increment_matrix(self, word, index, words):
+        row = min(self.stoi[word], len(self.whitelist)-1)
+
+        self.frequency_matrix[row][row] += 1
+
+        for i, w in enumerate(words):
+            if i != index:
+                try:
+                    col = min(self.stoi[w], len(self.whitelist))
+                    self.frequency_matrix[row][col] += 1
+                except KeyError:
+                    pass
 
     def handle_starttag(self, tag, attrs):
         if self.getting_keys:
@@ -46,7 +70,7 @@ class Scraper(HTMLParser):
             stripped = data.translate(str.maketrans(dict.fromkeys(PUNCTUATION)))
             words = stripped.split(' ')
 
-            for word in words:
+            for i, word in enumerate(words):
                 word = word.lower()
                 word = word.replace('\n', '')
 
@@ -54,6 +78,7 @@ class Scraper(HTMLParser):
                     continue
 
                 self.increment_dict(word)
+                self.increment_matrix(word, i, words)
 
     def get_keys(self, locations, page_limit=None):
         page_limit = 999 if None else page_limit
@@ -92,8 +117,11 @@ class Scraper(HTMLParser):
                     print("Error!", e)
                     continue
 
+    def get_cooccurrences(self):
+        return np.minimum(self.frequency_matrix.T.dot(self.frequency_matrix), len(self.keys)//10)
+
 if __name__ == "__main__":
-    scraper = Scraper()
+    scraper = Scraper(blacklist, whitelist)
     locations = []
     locations_default = ["Seattle, WA", "Columbus, OH", "Los Angeles, CA", "San Diego, CA",
                          "New York City, NY", "Austin, TX", "Dallas, TX", "Portland, OR"]
@@ -114,10 +142,10 @@ if __name__ == "__main__":
         locations = locations_default
 
     correct_input = False
-    page_limit = 10
+    page_limit = 30
     while not correct_input:
         try:
-            inp = input("Number of pages to scrape (max=1000, default=10): ")
+            inp = input(f"Number of pages to scrape (max=1000, default={page_limit}): ")
             if len(inp) == 0:
                 break
 
@@ -151,5 +179,8 @@ if __name__ == "__main__":
             s = f"{key}: {value}\n"
             print(s[:-1])
             f.write(s)
+
+    coocc = scraper.get_cooccurrences()
+    print(coocc)
 
     print(f"Output saved to '{output_filename}'")
