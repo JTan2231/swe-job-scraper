@@ -1,0 +1,744 @@
+word,frequency
+immigration law,1
+content creation,1
+remote access software,1
+teamviewer,1
+versionone,1
+warehouse distribution,1
+training & development,1
+fiddler,1
+hr sourcing,1
+relationship management,1
+drug discovery,1
+product demos,1
+hris,1
+junit,1
+asp.net core,1
+adobe xd,1
+cdisc standards,1
+workforce management,1
+pro/engineer,1
+cataloging,1
+direct marketing,1
+sap bw 4hana,1
+sap hana,1
+child protective services,1
+abap,1
+jd edwards,1
+ab initio,1
+social work,1
+workforce development,1
+supply chain management,1
+budgeting,1
+information management,1
+warehouse management,1
+investment management,1
+investment,1
+cost management,1
+cost control,1
+google docs,1
+process management,1
+health information management,1
+lan,1
+fireworks,1
+automotive diagnostics,1
+intelligence experience,1
+inventory control,1
+sids certification,1
+active directory,1
+obiee,1
+constant contact,1
+play framework,1
+email marketing,1
+web design,1
+geometry,1
+ehr systems,1
+floral design,1
+p&l management,1
+zbrush,1
+hbase,1
+report writing,1
+web accessibility,1
+civil engineering,1
+archival standards,1
+cgmp,1
+pc-dmis,1
+precision measuring instruments,1
+3g,1
+engineer in training,1
+fundamentals of engineering,1
+iat,1
+cisco ise,1
+data mining,1
+employment & labor law,1
+statistical software,1
+2d animation,1
+assays,1
+comptia linux+,1
+certified information systems auditor,1
+sox,1
+iso 27002,1
+microscopy,1
+medical imaging,1
+microsoft word,1
+iso 13485,1
+cucumber,1
+server management,1
+linked data,1
+load balancing,1
+instructional design,1
+san,1
+sap manufacturing,1
+5g,1
+telephony,1
+sccm,1
+unreal engine,1
+driving,1
+microsoft publisher,1
+lean manufacturing,1
+redmine,1
+sports marketing,1
+care plans,1
+ach,1
+pricing,1
+gatsby,1
+blogging,1
+mcsd,1
+experience design,1
+b2b,1
+underwriting,1
+nielsen,1
+office experience,1
+multichannel marketing,1
+word processing,1
+production planning,1
+ccnp,1
+it service management,1
+google adwords,1
+google analytics,1
+express.js,1
+adobe animate,1
+adobe after effects,1
+clustering,1
+julia,1
+gm vehicles,1
+packaging,1
+content management systems,1
+sql server management studio,1
+scorm,1
+creo,1
+3ds max,1
+ethernet,1
+painting,1
+jpa,1
+qualitative research,1
+crm software,1
+csslp,1
+teradata,1
+rally,1
+certified safety professional,1
+mobile device management,1
+intune,1
+quality management,1
+wiki systems,1
+ext js,1
+security,1
+nvda,1
+quality control,1
+telerik,1
+project management methodology,1
+debits & credits,1
+system security,1
+laboratory information management systems,1
+process improvement,1
+creative writing,1
+administrative experience,1
+mechanical design,1
+bank secrecy act,1
+ado.net,1
+cnc,1
+gd&t,1
+diesel engine repair,1
+human capital management,1
+hvac,1
+ductwork,1
+color theory,1
+facebook advertising,1
+metasploit,1
+autodesk inventor,1
+hospitality,1
+telecommunication,1
+data warehouse,1
+t-sql,1
+electrical wiring,1
+geoserver,1
+filing,1
+algebra,1
+fabrication,1
+it project management,1
+basic math,1
+caregiving,1
+information architecture,2
+data science,2
+horizontal drilling,2
+sourcing,2
+data governance,2
+elixir,2
+quality systems,2
+solr,2
+data management,2
+fanuc,2
+network management,2
+territory management,2
+enterprise sales,2
+transportation management,2
+gpen,2
+robot programming,2
+oem,2
+sap businessobjects,2
+certified supply chain professional,2
+tooling,2
+fips,2
+mathcad,2
+enterprise software,2
+xamarin,2
+qa/qc,2
+sap s/4hana,2
+sap erp,2
+hitrust,2
+jaws,2
+graph databases,2
+erlang,2
+visual design,2
+alteryx,2
+user acceptance testing,2
+joomla,2
+avaya,2
+cics,2
+maya,2
+soapui,2
+database administration,2
+rdf,2
+data lake,2
+network security,2
+trigonometry,2
+conversion optimization,2
+project leadership,2
+dicom,2
+owl,2
+help desk,2
+nmap,2
+technical project management,2
+computer literacy,2
+linguistics,2
+electrical license,2
+photography,2
+ids,2
+six sigma certification,2
+molecular biology,2
+design thinking,2
+bloomberg,2
+statistics,2
+zeplin,2
+electrical systems,2
+hubspot,2
+dhcp,2
+ipsec,2
+customer relationship management,2
+fedramp,2
+user research,2
+datastage,2
+website maintenance,2
+mobile devices,2
+basecamp,2
+auto service management,2
+technology management,2
+network administration,2
+electrical engineering,2
+attribution modeling,2
+schematics,2
+systemverilog,2
+sonography,3
+avionics,3
+forecasting,3
+computer hardware,3
+conflict management,3
+google ads,3
+business intelligence,3
+requirements management,3
+itil certification,3
+design controls,3
+opensuse,3
+sap,3
+penetration testing,3
+solidworks,3
+salesforce certification,3
+rmf,3
+lms,3
+problem management,3
+salesforce,3
+vcenter,3
+welding,3
+recruiting,3
+ftp,3
+peoplesoft,3
+test management tools,3
+wai-aria,3
+application support,3
+loadrunner,3
+cryptocurrency,3
+vpn,3
+firewall,3
+calculus,3
+class e,3
+mapreduce,3
+microsoft dynamics gp,3
+adobe dreamweaver,3
+gradle,3
+adobe creative suite,3
+talent management,3
+professional engineer,3
+google suite,3
+human resources,3
+digital art,3
+ontology,3
+system administration,3
+metadata,3
+enterprise architecture,3
+clinical laboratory experience,3
+public health,3
+zendesk,3
+pcb,3
+home health,3
+digital marketing,4
+sso,4
+react native,4
+s3,4
+translation,4
+raspberry pi,4
+systems engineering,4
+supply chain,4
+wireframing,4
+layout design,4
+project planning,4
+bgp,4
+predictive analytics,4
+etl,4
+heroku,4
+internet of things,4
+pl/sql,4
+microsoft outlook,4
+informatica,4
+comptia security+,4
+system testing,4
+dart,4
+citrix,4
+hipaa,4
+debian,4
+mechanical knowledge,4
+sage,4
+martech,4
+terraform,4
+functional testing,4
+quickbooks,4
+centos,4
+drupal,4
+autodesk,4
+ux,4
+zookeeper,4
+powerbuilder,4
+performance tuning,5
+knockout,5
+crystal reports,5
+mesos,5
+adas,5
+warehouse management system,5
+xhtml,5
+graphic design,5
+search engines,5
+bus driving,5
+marketing,5
+microsoft access,5
+adobe experience manager,5
+weblogic,5
+netsuite,5
+banking,5
+cmms,5
+jms,5
+employee orientation,5
+ivr,5
+distributed control systems,5
+release management,5
+dhtml,5
+construction,5
+visio,5
+laboratory procedures,5
+athenahealth,5
+product lifecycle management,5
+certified dental assistant,5
+groovy,5
+aws certification,5
+private pilot certification,5
+risk analysis,6
+virtualization,6
+organizational skills,6
+xslt,6
+cloud computing,6
+warehouse experience,6
+clinical trials,6
+ssrs,6
+cissp,6
+sales,6
+pmp,6
+a/b testing,6
+mpls,6
+pki,6
+identity & access management,7
+eclipse,7
+microsoft office,7
+chef,7
+voip,7
+redshift,7
+employee evaluation,7
+statistical analysis,7
+encryption,7
+robotics,7
+cognos,7
+presentation skills,7
+requirements analysis,7
+google cloud platform,7
+growing experience,8
+team management,8
+cloud development,8
+time management,8
+ballet,8
+construction estimating,8
+malware analysis,8
+testng,8
+ldap,8
+performance marketing,8
+change management,8
+image processing,8
+mechanical engineering,8
+pmi-acp,8
+keras,8
+pegasystems,8
+customer support,8
+opencv,8
+gis,8
+jsp,8
+fda regulations,8
+xpath,8
+adobe illustrator,8
+openstack,8
+asp,8
+data center experience,8
+"wills, trusts, & estate law",9
+json,9
+ui development,9
+test cases,9
+neo4j,9
+ajax,9
+akka,9
+data analysis skills,9
+workday,9
+4g/lte,9
+deep learning,10
+uml,10
+lua,10
+auto estimating,10
+microsoft sql server,10
+social media management,10
+ip networking,10
+edi,10
+wcf,10
+negotiation,11
+cad,11
+scss,11
+data analytics,11
+logistics,11
+contracts,11
+algorithm design,11
+certified scrum master,11
+spring mvc,11
+sas,11
+laravel,11
+control-m,11
+cobol,11
+microsoft windows server,11
+flutter,11
+lamp stack,11
+technical support,11
+ai,11
+cloud infrastructure,11
+itil,11
+scipy,12
+editing,12
+clojure,12
+usability,12
+sensors,12
+microsoft project,12
+it,12
+ui design,12
+assembly,12
+requirements gathering,12
+pci,12
+struts,12
+websphere,12
+backbone.js,12
+android,12
+laboratory experience,13
+esxi,13
+vba,13
+mainframe development,13
+management,13
+systems analysis,13
+accounting,13
+visual basic,13
+intellectual property law,14
+seo,14
+big data,14
+slack,14
+salt,14
+gherkin,14
+waterfall,14
+erp systems,14
+signal processing,14
+high availability,15
+business requirements,15
+haskell,15
+lucene,15
+military,15
+r,15
+math,15
+fortran,15
+fpga,15
+soc,15
+analytics,16
+multithreading,16
+servicenow,16
+invision,16
+programmable logic controllers,16
+lean,16
+jdbc,17
+database management,17
+computer vision,18
+data visualization,18
+disaster recovery,18
+information security,18
+asp.net,18
+pandas,19
+grpc,19
+firmware,19
+driver's license,19
+tableau,20
+sharepoint,20
+software architecture,20
+labview,20
+hibernate,21
+fraud,21
+customer service,21
+sailpoint,21
+tcp/ip,21
+technical writing,21
+kafka,21
+authentication,22
+numpy,22
+xml,22
+scripting,22
+tomcat,22
+powershell,23
+wcag,23
+financial services,23
+continuous improvement,23
+paas,24
+ecmascript,24
+mvc,25
+ssis,25
+jboss,25
+product development,25
+hadoop,26
+ubuntu,26
+microsoft powerpoint,26
+teaching,26
+unity,27
+root cause analysis,27
+ember.js,27
+arm,27
+computer networking,28
+database development,28
+performance testing,28
+rust,29
+quality assurance,30
+matlab,30
+computer science,30
+tensorflow,30
+network protocols,31
+computer skills,31
+saas,32
+data collection,32
+middleware,32
+business analysis,33
+pytorch,33
+integration testing,33
+ssl,33
+iaas,34
+system architecture,34
+adobe photoshop,34
+db2,34
+wordpress,35
+django,35
+figma,36
+cloud architecture,36
+configuration management,36
+flask,37
+database design,37
+service-oriented architecture,37
+magento,37
+splunk,37
+mac os,38
+databases,38
+scalability,38
+marketing automation,40
+gitlab,41
+entity framework,42
+bamboo,42
+computer graphics,43
+power bi,43
+debugging,43
+sdks,43
+tfs,43
+safe,46
+ansible,47
+svn,47
+oracle,48
+ruby,49
+d3.js,49
+manufacturing,49
+embedded software,53
+iis,53
+e-commerce,53
+apache hive,54
+new relic,54
+test-driven development,57
+springboot,59
+android development,60
+os kernels,60
+ios development,61
+docker,65
+kanban,65
+ui,66
+responsive web design,67
+natural language processing,68
+dns,70
+leadership,70
+back-end development,71
+cassandra,71
+sass,73
+data modeling,75
+project management,75
+redux,76
+software testing,77
+bootstrap,82
+kubernetes,83
+jquery,84
+tcp,84
+mobile applications,85
+redis,86
+selenium,86
+front-end development,93
+objective-c,95
+php,96
+writing skills,112
+microsoft excel,113
+research,114
+ruby on rails,115
+application development,115
+confluence,116
+postgresql,120
+operating systems,125
+perl,128
+bash,131
+swift,132
+spring boot,134
+visual studio,135
+maven,137
+jira,137
+data structures,144
+software deployment,146
+software development,147
+machine learning,147
+j2ee,148
+spark,154
+jenkins,157
+microservices,158
+ios,162
+vue.js,164
+web development,173
+software troubleshooting,177
+continuous integration,182
+sdlc,182
+test automation,192
+unix,206
+soap,209
+shell scripting,215
+.net core,216
+vmware,216
+elasticsearch,225
+product management,234
+ci/cd,238
+gcp,243
+postgres,244
+mentoring,246
+node,248
+system design,250
+graphql,250
+distributed systems,253
+unit testing,253
+.net,257
+dynamodb,258
+devops,272
+golang,273
+windows,273
+scrum,273
+apache,280
+analysis skills,311
+kotlin,316
+reactjs,339
+nosql,370
+agile,377
+scala,394
+relational databases,396
+mongodb,410
+full-stack development,426
+web services,438
+github,449
+oop,485
+html5,506
+apis,534
+node.js,673
+embedded,710
+mysql,715
+c,801
+design patterns,801
+spring,829
+nodejs,835
+typescript,940
+angular,1016
+net,1214
+linux,1261
+git,1317
+go,1453
+communication skills,1465
+rest,1737
+azure,1869
+c#,1923
+css,2236
+c++,3005
+javascript,3200
+react,3329
+sql,3376
+aws,3504
+python,3563
+java,4290
+cloud,4553

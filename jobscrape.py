@@ -5,6 +5,7 @@ import urllib.request
 import concurrent.futures
 
 import numpy as np
+import pandas as pd
 
 from tqdm import tqdm
 from blacklist import blacklist, whitelist
@@ -171,16 +172,15 @@ if __name__ == "__main__":
 
     scraper.sort_dict()
 
-    with open("scrape.txt", 'w') as f:
-        f.write('') # clear file
+    df = { 'whitelist': scraper.whitelist }
+    df = pd.DataFrame.from_dict(df)
+    df.to_csv("whitelist.csv", index=False)
 
-    with open("scrape.txt", 'a') as f:
-        for key, value in scraper.frequencies.items():
-            s = f"{key}: {value}\n"
-            print(s[:-1])
-            f.write(s)
+    df = { 'word': list(scraper.frequencies.keys()), 'frequency': list(scraper.frequencies.values()) }
+    df = pd.DataFrame.from_dict(df)
+    df.to_csv("frequencies.csv", index=False)
 
     coocc = scraper.get_cooccurrences()
-    print(coocc)
+    np.save("cooccurrences.npy", coocc)
 
-    print(f"Output saved to '{output_filename}'")
+    print(f"See `frequencies.csv`, `cooccurrences.npy` for results and `whitelist.csv`.")
